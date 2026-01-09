@@ -1,3 +1,5 @@
+package Basics;
+
 public class typecasting {
     public static void main(String[] args) {
         char ch = 'A';

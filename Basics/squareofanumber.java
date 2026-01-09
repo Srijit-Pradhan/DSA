@@ -1,3 +1,5 @@
+package Basics;
+
 import java.util.Scanner;
 @SuppressWarnings("resource")//must be added to avoid resource leak warning
 public class squareofanumber {
